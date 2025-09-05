@@ -35,11 +35,13 @@
 </div>
 
 ---
-### 📊 Stats
 
+### 📊 Stats
+<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BunnyByee&show_icons=true&theme=tokyonight&card_width=200)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByee&layout=compact&theme=tokyonight)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bunnybyee)](https://solved.ac/bunnybyee)
 <img src="http://mazandi.herokuapp.com/api?handle=bunnybyee&theme=cold"/>
+</div>
