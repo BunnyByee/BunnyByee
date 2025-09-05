@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm 형님!</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HeeSoo.K's Github%20render&fontSize=90)
 <p align="center">
     🌱 Smart Factory Software Developer Aspirant <br>
     📚 Currently learning <b>C++, Python</b> and CS fundamentals <br>
