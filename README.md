@@ -53,8 +53,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![형님의 GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
+![형님의 GitHub stats](https://github-readme-stats.vercel.app/api?username=BunnyByee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyByee&layout=compact&theme=tokyonight)
 
 </div>
 
